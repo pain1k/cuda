@@ -84,6 +84,7 @@ body {
 }
 .btn:hover {
     cursor: pointer;
+    background-color: #eb3d1b;
 }
 .button {
     width: 100%;
