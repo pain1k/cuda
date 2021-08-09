@@ -278,6 +278,8 @@ body {
     cursor: pointer;
     background-color: #076050;
 }
+.img-resize {
+ max-width:100%
 
 /*         Feedback        */
 .feedback {
